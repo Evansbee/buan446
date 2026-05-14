@@ -1,11 +1,11 @@
 # BUAN 446: Python for Data Analysts
 
-**Crestview University Graduate Course**  
-6-week intensive | 4 days/week | 1.75 hours per session
+**Lehigh University Graduate Course**  
+6-week intensive | online asychronous 
 
 ## Course Overview
 
-This repository contains comprehensive course materials for BUAN 446, a graduate-level Python course designed for first-year data analytics students. The course covers the first nine chapters of "Intro to Python for Computer Science and Data Science" with a focus on practical data analysis skills.
+This repository contains comprehensive course materials for BUAN 446, a graduate-level Python course designed for first-year data analytics students. The course focuses on practical data analysis skills.
 
 ## Pedagogical Framework: CRAWL → WALK → RUN
 
@@ -58,7 +58,6 @@ buan446-python-for-data-analysts/
 
 ## Course Content
 
-### Completed Chapters (1-5)
 
 **Chapter 1: Python Fundamentals**
 - Variables, data types, and expressions
@@ -85,7 +84,7 @@ buan446-python-for-data-analysts/
 - CSV file processing
 - Error handling with try/except blocks
 
-### Completed Chapters (6-9)
+
 
 **Chapter 6: NumPy**
 - Array creation and vectorized operations
@@ -176,7 +175,7 @@ By the end of this course, students will be able to:
 - **Python**: 3.8 or higher
 - **Required Libraries**: pandas, numpy, matplotlib, seaborn
 - **Development Environment**: Jupyter Notebook or JupyterLab
-- **Recommended IDE**: VS Code with Python extension, or Anaconda Navigator
+
 
 ## Installation
 
@@ -276,16 +275,15 @@ This course material is provided for educational purposes. Please contact the co
 
 ## Contact
 
-**Course Instructor**: Eric Hollow  
-**Institution**: Crestview University  
+**Course Instructor**: Eric Zematis
+**Institution**: Lehigh University  
 **Course**: BUAN 446 - Python for Data Analysts
 
 ## Acknowledgments
 
-- Course content based on "Intro to Python for Computer Science and Data Science"
 - DataCamp integration for supplementary learning resources
-- Crestview University College of Business for supporting innovative AI-integrated pedagogy
+- Lehigh University College of Business for supporting innovative AI-integrated pedagogy
 
 ---
 
-*Last Updated: February 2026*
+*Last Updated: May 2026*
