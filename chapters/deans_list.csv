@@ -1,0 +1,199 @@
+id,college,major,class_year,gpa,credits_attempted,credits_earned
+CU100002,College of Education,Elementary Education,Junior,3.55,73,62
+CU100003,College of Engineering,Electrical Engineering,Junior,3.6,89,81
+CU100005,College of Engineering,Computer Engineering,Sophomore,3.9,52,44
+CU100006,College of Health,Health Science,Sophomore,4.0,53,49
+CU100007,College of Business,Management,Junior,4.0,74,69
+CU100008,College of Education,Secondary Education,Junior,4.0,74,63
+CU100009,College of Engineering,Chemical Engineering,Graduate,3.97,21,18
+CU100013,College of Business,Finance,Senior,3.54,104,91
+CU100016,College of Health,Community Health,Sophomore,3.84,46,42
+CU100017,College of Business,Economics,First Year,3.75,25,23
+CU100018,College of Health,Community Health,Junior,3.7,86,79
+CU100019,College of Education,Elementary Education,Senior,4.0,126,112
+CU100020,College of Arts and Sciences,Chemistry,Sophomore,3.89,47,43
+CU100025,College of Business,Management,Junior,3.99,76,66
+CU100026,College of Health,Public Health,Sophomore,3.56,55,54
+CU100037,College of Business,Economics,Senior,3.63,108,105
+CU100038,College of Business,Finance,Sophomore,3.7,54,48
+CU100039,College of Health,Nursing,Junior,4.0,89,84
+CU100045,College of Health,Nursing,Graduate,3.73,16,14
+CU100046,College of Engineering,Chemical Engineering,Junior,3.98,74,63
+CU100047,College of Education,Special Education,Graduate,3.79,17,14
+CU100048,College of Arts and Sciences,Chemistry,Graduate,3.69,20,17
+CU100049,College of Health,Nursing,Junior,3.95,72,68
+CU100050,College of Education,Secondary Education,Graduate,3.56,12,11
+CU100051,College of Engineering,Chemical Engineering,First Year,3.7,20,17
+CU100052,College of Engineering,Industrial Engineering,First Year,3.57,20,18
+CU100055,College of Health,Health Science,First Year,3.97,16,14
+CU100057,College of Arts and Sciences,Physics,Graduate,3.77,20,17
+CU100059,College of Health,Public Health,Graduate,3.61,34,33
+CU100064,College of Arts and Sciences,Physics,Senior,3.73,114,108
+CU100065,College of Education,Secondary Education,Graduate,4.0,14,13
+CU100066,College of Arts and Sciences,Biology,First Year,4.0,25,22
+CU100072,College of Engineering,Computer Engineering,Senior,3.62,114,108
+CU100075,College of Engineering,Bioengineering,Senior,4.0,123,106
+CU100079,College of Health,Community Health,Sophomore,3.66,45,43
+CU100080,College of Engineering,Civil Engineering,Senior,3.89,124,115
+CU100081,College of Business,Business Analytics,Sophomore,3.52,56,53
+CU100086,College of Arts and Sciences,Physics,Graduate,3.72,11,9
+CU100089,College of Education,Special Education,First Year,3.67,27,22
+CU100092,College of Health,Public Health,Senior,3.86,106,105
+CU100097,College of Arts and Sciences,English,Senior,3.51,126,107
+CU100101,College of Engineering,Chemical Engineering,First Year,3.61,24,21
+CU100103,College of Arts and Sciences,Philosophy,Senior,3.55,103,92
+CU100105,College of Health,Community Health,First Year,3.93,26,24
+CU100107,College of Education,Secondary Education,Junior,3.58,82,80
+CU100110,College of Engineering,Industrial Engineering,Senior,3.8,112,99
+CU100113,College of Health,Community Health,Senior,3.64,124,109
+CU100125,College of Health,Nursing,Graduate,3.86,28,24
+CU100130,College of Engineering,Computer Engineering,First Year,3.57,19,17
+CU100132,College of Health,Health Science,Junior,3.63,81,77
+CU100135,College of Education,Special Education,Graduate,4.0,17,15
+CU100138,College of Arts and Sciences,Chemistry,Graduate,3.61,19,17
+CU100140,College of Arts and Sciences,Mathematics,Sophomore,3.69,54,52
+CU100141,College of Business,Management,Graduate,3.5,25,22
+CU100145,College of Business,Supply Chain Management,Graduate,3.5,31,27
+CU100147,College of Education,Elementary Education,Sophomore,3.73,46,45
+CU100149,College of Business,Marketing,Senior,3.68,123,113
+CU100153,College of Health,Community Health,Graduate,3.71,13,12
+CU100155,College of Business,Economics,Senior,4.0,102,97
+CU100156,College of Health,Public Health,First Year,3.87,20,18
+CU100157,College of Health,Health Science,Graduate,3.96,21,20
+CU100162,College of Health,Public Health,First Year,3.66,14,13
+CU100166,College of Health,Nursing,First Year,3.76,24,23
+CU100170,College of Education,Secondary Education,Senior,4.0,125,120
+CU100179,College of Education,Secondary Education,Graduate,3.62,35,32
+CU100182,College of Education,Secondary Education,Junior,3.86,76,74
+CU100184,College of Engineering,Bioengineering,Junior,3.9,79,77
+CU100185,College of Business,Management,Sophomore,3.79,43,39
+CU100188,College of Education,Elementary Education,Junior,4.0,79,71
+CU100189,College of Engineering,Computer Science,Sophomore,4.0,59,52
+CU100191,College of Arts and Sciences,English,Junior,3.65,76,73
+CU100195,College of Health,Community Health,Junior,3.85,86,74
+CU100196,College of Business,Marketing,Junior,3.75,74,64
+CU100200,College of Health,Community Health,Sophomore,3.65,45,40
+CU100201,College of Arts and Sciences,Mathematics,Sophomore,3.85,44,38
+CU100202,College of Business,Accounting,Junior,4.0,83,80
+CU100204,College of Health,Health Science,Graduate,3.5,28,25
+CU100205,College of Business,Business Analytics,Junior,3.59,75,67
+CU100206,College of Education,Secondary Education,First Year,3.67,20,18
+CU100209,College of Education,Special Education,Sophomore,3.64,42,36
+CU100210,College of Education,Elementary Education,Sophomore,3.75,56,50
+CU100216,College of Arts and Sciences,English,Senior,3.66,126,111
+CU100221,College of Education,Secondary Education,Senior,3.55,129,111
+CU100224,College of Engineering,Industrial Engineering,Sophomore,3.72,46,40
+CU100229,College of Education,Elementary Education,Sophomore,3.7,43,36
+CU100230,College of Arts and Sciences,Chemistry,Senior,3.6,129,111
+CU100233,College of Business,Supply Chain Management,First Year,3.54,14,12
+CU100236,College of Arts and Sciences,Philosophy,First Year,4.0,22,18
+CU100238,College of Education,Elementary Education,Sophomore,3.98,60,56
+CU100239,College of Arts and Sciences,Mathematics,Graduate,3.5,28,26
+CU100242,College of Engineering,Industrial Engineering,Graduate,3.73,24,21
+CU100246,College of Business,Supply Chain Management,Sophomore,3.9,49,48
+CU100250,College of Education,Elementary Education,Graduate,3.59,10,9
+CU100251,College of Arts and Sciences,History,Graduate,3.51,12,10
+CU100253,College of Health,Health Science,Graduate,3.66,20,19
+CU100254,College of Health,Health Science,Sophomore,3.74,53,46
+CU100272,College of Health,Community Health,Sophomore,4.0,47,43
+CU100282,College of Arts and Sciences,Political Science,Sophomore,3.81,50,44
+CU100285,College of Health,Public Health,First Year,3.5,26,25
+CU100287,College of Arts and Sciences,Psychology,Senior,3.91,127,114
+CU100292,College of Arts and Sciences,Psychology,Graduate,3.71,33,30
+CU100293,College of Education,Elementary Education,Senior,3.73,129,110
+CU100294,College of Business,Business Analytics,First Year,3.61,17,14
+CU100309,College of Engineering,Electrical Engineering,Junior,3.65,87,77
+CU100312,College of Arts and Sciences,Chemistry,Sophomore,3.58,56,54
+CU100313,College of Arts and Sciences,Philosophy,Senior,4.0,114,103
+CU100314,College of Arts and Sciences,History,Graduate,4.0,33,28
+CU100317,College of Education,Secondary Education,First Year,4.0,21,19
+CU100319,College of Business,Marketing,Sophomore,3.6,51,49
+CU100320,College of Business,Business Analytics,Junior,3.6,90,84
+CU100324,College of Health,Health Science,Senior,3.54,118,103
+CU100326,College of Arts and Sciences,Mathematics,Junior,3.56,78,77
+CU100327,College of Arts and Sciences,History,Sophomore,4.0,51,48
+CU100331,College of Health,Nursing,Senior,3.57,110,108
+CU100332,College of Arts and Sciences,Psychology,First Year,4.0,30,26
+CU100333,College of Business,Management,Graduate,3.63,12,10
+CU100334,College of Health,Health Science,Senior,3.69,106,90
+CU100335,College of Education,Elementary Education,Sophomore,4.0,57,54
+CU100343,College of Health,Nursing,Senior,3.76,111,103
+CU100361,College of Engineering,Computer Engineering,Sophomore,3.62,54,48
+CU100366,College of Health,Health Science,Sophomore,3.53,44,38
+CU100369,College of Education,Secondary Education,Sophomore,3.77,60,56
+CU100372,College of Engineering,Computer Engineering,Junior,3.87,73,72
+CU100374,College of Health,Public Health,Senior,3.58,111,108
+CU100380,College of Business,Finance,Graduate,3.8,32,27
+CU100387,College of Health,Nursing,Sophomore,3.77,57,52
+CU100391,College of Engineering,Mechanical Engineering,Senior,3.87,113,97
+CU100396,College of Health,Community Health,Junior,3.72,79,70
+CU100397,College of Business,Management,Graduate,3.56,21,19
+CU100402,College of Arts and Sciences,Biology,Graduate,3.97,27,23
+CU100406,College of Arts and Sciences,Philosophy,Senior,3.55,121,110
+CU100409,College of Business,Economics,Junior,3.51,74,65
+CU100412,College of Engineering,Computer Engineering,Junior,3.56,89,82
+CU100415,College of Education,Elementary Education,Junior,3.51,76,67
+CU100416,College of Arts and Sciences,Sociology,First Year,3.61,17,15
+CU100417,College of Health,Nursing,Junior,3.6,79,75
+CU100420,College of Education,Elementary Education,Sophomore,3.88,48,44
+CU100422,College of Engineering,Industrial Engineering,Sophomore,3.94,54,48
+CU100425,College of Business,Economics,Senior,3.57,106,100
+CU100429,College of Education,Special Education,Senior,3.99,123,116
+CU100430,College of Engineering,Computer Science,Junior,3.69,84,83
+CU100436,College of Health,Nursing,First Year,3.76,13,12
+CU100442,College of Education,Elementary Education,Sophomore,3.59,48,44
+CU100448,College of Engineering,Civil Engineering,Junior,3.54,76,66
+CU100449,College of Health,Health Science,Graduate,3.93,15,14
+CU100455,College of Health,Public Health,Graduate,4.0,33,29
+CU100456,College of Business,Supply Chain Management,Sophomore,3.76,44,40
+CU100457,College of Business,Economics,Senior,3.56,124,111
+CU100458,College of Education,Special Education,Junior,4.0,76,73
+CU100461,College of Business,Finance,Graduate,3.75,17,16
+CU100465,College of Arts and Sciences,Sociology,Graduate,3.59,33,32
+CU100466,College of Business,Management,Graduate,3.62,29,27
+CU100468,College of Arts and Sciences,Physics,Senior,4.0,112,104
+CU100469,College of Engineering,Bioengineering,Senior,3.93,103,89
+CU100474,College of Business,Management,First Year,3.97,18,16
+CU100480,College of Health,Public Health,First Year,4.0,15,13
+CU100482,College of Arts and Sciences,Chemistry,Sophomore,3.63,51,49
+CU100483,College of Business,Economics,Senior,3.59,121,112
+CU100486,College of Business,Marketing,Graduate,4.0,13,11
+CU100491,College of Business,Business Analytics,Graduate,3.77,19,17
+CU100498,College of Education,Special Education,First Year,3.65,26,24
+CU100499,College of Business,Supply Chain Management,Graduate,3.69,33,28
+CU100500,College of Education,Special Education,Senior,3.6,109,104
+CU100501,College of Business,Accounting,Graduate,3.69,20,18
+CU100502,College of Engineering,Civil Engineering,Graduate,3.61,36,30
+CU100504,College of Education,Secondary Education,First Year,3.58,13,11
+CU100505,College of Education,Elementary Education,Graduate,3.9,18,17
+CU100508,College of Health,Public Health,Senior,3.93,119,114
+CU100511,College of Arts and Sciences,Chemistry,First Year,3.72,13,12
+CU100514,College of Education,Elementary Education,Senior,4.0,114,98
+CU100515,College of Education,Elementary Education,Junior,3.62,80,78
+CU100521,College of Engineering,Industrial Engineering,Sophomore,3.6,47,40
+CU100529,College of Arts and Sciences,Mathematics,Junior,3.67,79,74
+CU100530,College of Health,Community Health,Graduate,3.93,24,20
+CU100532,College of Education,Elementary Education,Graduate,4.0,34,32
+CU100535,College of Health,Nursing,Senior,4.0,105,93
+CU100537,College of Engineering,Computer Engineering,Sophomore,3.71,47,41
+CU100541,College of Engineering,Computer Science,Junior,4.0,78,75
+CU100542,College of Arts and Sciences,Psychology,Graduate,3.6,36,35
+CU100545,College of Arts and Sciences,Mathematics,Sophomore,4.0,55,53
+CU100549,College of Education,Secondary Education,Graduate,3.65,14,13
+CU100552,College of Business,Economics,Senior,4.0,122,117
+CU100554,College of Business,Management,First Year,3.99,24,21
+CU100558,College of Health,Public Health,Senior,3.59,119,117
+CU100566,College of Education,Secondary Education,First Year,3.52,24,21
+CU100569,College of Health,Public Health,Junior,3.75,85,84
+CU100572,College of Health,Public Health,Graduate,3.56,14,13
+CU100573,College of Engineering,Civil Engineering,First Year,3.9,18,17
+CU100574,College of Engineering,Chemical Engineering,Sophomore,3.56,44,37
+CU100575,College of Education,Secondary Education,Junior,3.64,72,69
+CU100584,College of Health,Health Science,First Year,4.0,18,17
+CU100585,College of Health,Community Health,Senior,3.9,118,114
+CU100587,College of Education,Special Education,First Year,3.5,13,11
+CU100588,College of Health,Health Science,Graduate,4.0,31,27
+CU100591,College of Arts and Sciences,Physics,First Year,3.89,14,12
+CU100597,College of Education,Special Education,Sophomore,3.68,53,49
+CU100598,College of Education,Special Education,Sophomore,3.56,45,41
+CU100599,College of Arts and Sciences,Mathematics,Senior,3.6,124,123
